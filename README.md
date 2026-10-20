@@ -1,10 +1,17 @@
 <div align="center">
-  <h1>Olá, eu sou o Lucas 👋</h1>
-  <p><strong>Desenvolvedor de Software | Focado em Arquitetura, Engenharia Web e Sistemas</strong></p>
-  
+  <h1>Lucas Andrioli</h1>
+  <p><strong>Graduando em Engenharia de Software | Biopark Educação</strong></p>
+  <p>Toledo, Paraná, Brasil</p>
+
   <p>
+    <a href="https://www.linkedin.com/in/lucas-andrioli-00b82039b/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:lucas.andrioli.santo@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
     <a href="https://github.com/rysumo">
-      <img src="https://img.shields.io/badge/Status-Construindo%20Projetos-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 </div>
@@ -13,39 +20,41 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou desenvolvedor apaixonado por construir software robusto, escalável e bem arquitetado. Tenho experiência prática no desenvolvimento de soluções desktop em **C**, aplicações web com ecossistema **TypeScript/JavaScript** e plataformas com foco em alto desempenho e experiência do usuário.
+Sou estudante de **Engenharia de Software no Biopark Educação** (2026 – 2030) e participante do projeto de **Pré-Incubação do Biopark**. Tenho foco no desenvolvimento de software bem estruturado, combinando fundamentos sólidos de ciência da computação, desenvolvimento web moderno e disciplina de engenharia.
 
-- 🔭 **Foco Atual:** Arquitetura de software moderna, Spec-Driven Development e sistemas escaláveis.
-- ⚙️ **Princípios:** Código limpo, tipagem estrita, segurança por design e automação de testes.
-- 🐧 **Ambiente:** Usuário de Linux (Arch Linux) e focado em produtividade através de ferramentas modernas de desenvolvimento.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-</p>
+- 🎓 **Formação:** Graduando em Engenharia de Software (Biopark Educação) com formação prévia em Ensino Médio Técnico (Premen).
+- 💼 **Experiência Profissional:** Atuação prática em processos, atualização de indicadores e controle no setor de PCM (MBRF S.A), desenvolvendo visão analítica, trabalho em equipe e foco em melhoria contínua.
+- 🎯 **Objetivo:** Aplicar conhecimentos técnicos em desenvolvimento de software, automação de processos e construção de sistemas robustos, agregando valor a equipes de tecnologia.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛠️ Competências & Tecnologias
+
+- **Linguagens & Lógica:** C, C#, Python, TypeScript, JavaScript, SQL.
+- **Desenvolvimento Web:** React, HTML5, CSS3, Tailwind CSS, Node.js.
+- **Bancos de Dados:** PostgreSQL, SQL relacional e modelagem de dados.
+- **Ferramentas & Ambiente:** Git, GitHub, Linux (Arch Linux), VS Code.
+- **Metodologias & Práticas:** Estruturas de dados, organização de processos, automação de rotinas e documentação técnica.
+
+---
+
+### 📌 Projetos em Destaque
+
+- **[Sistema de Gestão Comercial (C)](https://github.com/rysumo/Sistema-de-Gest-o-de-Loja-C-):** Sistema desenvolvido em C focado em lógica de negócio, manipulação de arquivos em disco e estruturas de dados no console.
+- **[EletroTech](https://github.com/rysumo/EletroTech):** Aplicação web com foco em dinamismo de interface, componentes interativos e fluxo frontend.
+- **[Arch Linux Setup](https://github.com/rysumo/Arch):** Configurações e customização de distribuição Linux voltada a fluxo de desenvolvimento e produtividade.
+
+---
+
+### 📊 Métricas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rysumo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas de rysumo" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rysumo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rysumo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas de Lucas Andrioli" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rysumo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" height="150" />
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"Qualidade, robustez e simplicidade técnica acima de atalhos."</i></p>
+  <p><i>"Foco em melhoria contínua, consistência e engenharia de qualidade."</i></p>
 </div>
