@@ -40,9 +40,9 @@ Sou estudante de **Engenharia de Software no Biopark Educação** (2026 – 2030
 
 ### 📌 Projetos em Destaque
 
-- **[Sistema de Gestão Comercial (C)](https://github.com/rysumo/Sistema-de-Gest-o-de-Loja-C-):** Sistema desenvolvido em C focado em lógica de negócio, manipulação de arquivos em disco e estruturas de dados no console.
+- **[Skill Scout](https://github.com/rysumo/skill-scout):** Skills de pesquisa e otimização de tokens para modelos de IA 
 - **[EletroTech](https://github.com/rysumo/EletroTech):** Aplicação web com foco em dinamismo de interface, componentes interativos e fluxo frontend.
-- **[Arch Linux Setup](https://github.com/rysumo/Arch):** Configurações e customização de distribuição Linux voltada a fluxo de desenvolvimento e produtividade.
+- **[Saas AgroUDP](repositorio prvado):**  Plataforma SaaS para gestao integrada das UDPs e Cooperativa-Escola  
 
 ---
 
